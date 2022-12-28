@@ -1,0 +1,15 @@
+.btext{
+    font-size: 4rem;
+    font-weight: 700;
+}
+.Mylegend{
+    justify-content: center;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: -5%;
+    background-color: white;
+}
+
+.fullbtn{
+    padding: 4rem;
+}
