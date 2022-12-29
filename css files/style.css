@@ -5,33 +5,18 @@ body{
 }
 
 .btext{
-    font-size: 50px;
-    font-weight: 600px;
+    font-size: 4rem;
+    font-weight: 700;
 }
 
 .Mylegend{
-    width: 60px;
-    margin-left: 42%;
-    margin-top: -20px;
+    justify-content: center;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: -5%;
     background-color: white;
 }
 
-footer li{
-    margin-bottom: 15%;
-}
-.bg-orange{
-    background-color: orange;
-}
-.text-orange{
-    color: orange;
-}
-.border-orange{
-    border: 2px solid orange;
-}
-.bg-opacity{
-    background-color: rgba(70, 65, 65,0.2);
-}
-button:hover{
-    border-color: orange;
-    background-color:white;
+.fullbtn{
+    padding: 4rem;
 }
